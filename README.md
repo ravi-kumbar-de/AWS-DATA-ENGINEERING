@@ -67,5 +67,3 @@ Learn about how to implement _Data Pipelines_ with **Airflow** and **AWS**.
 - **[Check out this project!](./project-airflow-aws/)**
 
 
-## Certificate of completion
-https://confirm.udacity.com/e/b15ef03a-19a2-11ee-a5c5-b39e4d9bff76
