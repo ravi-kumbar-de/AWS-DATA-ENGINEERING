@@ -66,4 +66,5 @@ Learn about how to implement _Data Pipelines_ with **Airflow** and **AWS**.
 - Build a Data Pipeline with **Airflow** that performs ETL on AWS.
 - **[Check out this project!](./project-airflow-aws/)**
 
+![1735799612778](https://github.com/user-attachments/assets/a8281a25-796a-40f3-885b-54ae793d9678)
 
